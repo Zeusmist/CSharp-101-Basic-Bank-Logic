@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.deps.json
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.runtimeconfig.json
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.runtimeconfig.dev.json
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.dll
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.pdb
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.csprojAssemblyReference.cache
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.AssemblyInfo.cs
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.dll
+C:\Users\david\Desktop\C# Practice\CSharp_Practice\CSharp101\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.pdb
